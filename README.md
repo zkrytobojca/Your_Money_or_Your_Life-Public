@@ -1,5 +1,7 @@
 # Your Money or Your Life - Multiplayer FPS Game made using Unity and Photon Engine
 
+### Attention! This public repository contains only preview and some scripts for viewing. Main repository with full project is private. 
+
 ## About
 This project cantains implementation of a fully playable first person shooter game called "Your Money or Your Life". It is a multiplayer game made using Unity engine and Photon Engine - PUN. The game is set in the wild west world with lovely low poly graphics by Synty Studios. Players take on the role of cowboys who fight with each other for gold.
 
